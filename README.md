@@ -1,11 +1,11 @@
 
 ## 👋 Hi, I'm Yordanos
 
-👩🏻‍💻 As a Software Engineer, I love to share my experiences and lessons learned in the tech field.
-🔭 At the moment, I'm dedicated to advancing my expertise in full-stack development.
-👯 I'm interested in teaming up on open-source initiatives that emphasize web development and machine learning.
-💬 Don’t hesitate to reach out about my projects or if you’re looking for a coding challenge partner!
-📫 To get in touch, email me at: Email [Email](mailto:yordanoseshetu546@gmail.com) 
+- 👩🏻‍💻 As a Software Engineer, I love to share my experiences and lessons learned in the tech field.
+- 🔭 At the moment, I'm dedicated to advancing my expertise in full-stack development.
+- 👯 I'm interested in teaming up on open-source initiatives that emphasize web development and machine learning.
+- 💬 Don’t hesitate to reach out about my projects or if you’re looking for a coding challenge partner!
+- 📫 To get in touch, email me at: Email [Email](mailto:yordanoseshetu546@gmail.com) 
 
 
 # 💻 Tech Stack:
